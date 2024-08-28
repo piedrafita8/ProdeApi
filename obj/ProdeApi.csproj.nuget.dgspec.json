@@ -50,6 +50,14 @@
               "target": "Package",
               "version": "[2.28.0, )"
             },
+            "Refit": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

@@ -3,7 +3,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace ProdeApi.Models;
 
-public class Match
+public class UserPrediction
 {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
